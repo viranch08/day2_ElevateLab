@@ -50,18 +50,7 @@ The goal of this project was to:
 - **Customer Count by Loyalty & Repeat Status**
 
 ### 🎛️ Filters & Slicers
-- Promo Type
 - Dynamic filtering across visuals
-
----
-
-## 🧠 Key Insights
-
-- **BOGO promotions** contributed the highest revenue
-- **Card and Wallet** were the most used payment methods
-- **January and April** showed peak sales performance
-- A significant share of sales came from **non-loyalty members**
-- **Merchandise** generated the highest revenue among all categories
 
 ---
 
@@ -69,14 +58,12 @@ The goal of this project was to:
 
 - **Power BI Desktop**
 - **Power Query**
-- **Data Modeling**
-- **Dashboard UX Design**
 
 ---
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/viranch08/day2_ElevateLab/blob/main/Barista_Sales_Performance.png
 
 ---
 
